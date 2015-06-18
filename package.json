@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "kesla/runtime-node dns"
+    "url": "git+https://github.com/kesla/runtime-node dns"
   },
   "author": "David Björklund <david.bjorklund@gmail.com>",
   "license": "MIT",
